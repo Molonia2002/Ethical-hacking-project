@@ -42,7 +42,7 @@ python3 --version
 Clone the repository or download the script:
 
 
-git clone https://github.com/Molonia2002/Ethical-hacking-project/passwordstrengthchecker.py.git
+git clone https://github.com/Molonia2002/Ethical-hacking-project.git
 cd password-strength-checker
 ⚡ Usage
 Run the script:
